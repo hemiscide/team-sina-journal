@@ -1,2 +1,14 @@
 # team-sina-journal
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 文件维护
+
+请以仓库当前文件和提交记录判断最新状态。
